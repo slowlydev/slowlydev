@@ -4,6 +4,8 @@
 
 - slowly-adventures
 - slowlydev-website
+- huffman-typescript
+- home-control
 
 ## 🔨 I've worked on
 (sorted by "quality")
