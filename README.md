@@ -2,7 +2,8 @@
 
 ## 🔭 I’m currently working on 
 
-- slowlydev-website
+- [slowlydev-website-dev](https://slowlydev-development.vercel.app)
+- [slowlydev-website-prod](https://slowlydev.vercel.app)
 - home-control
 
 ## 🔨 I've worked on
