@@ -2,8 +2,7 @@
 
 ## 🔭 I’m currently working on 
 
-- [slowlydev-website-dev](https://slowlydev-development.vercel.app)
-- [slowlydev-website-prod](https://slowlydev.vercel.app)
+- [slowlydev-website](https://slowlydev.vercel.app)
 - home-control
 
 ## 🔨 I've worked on
@@ -12,7 +11,6 @@
 - [Shadowy](https://shadowy.vercel.app/)
 - [Budjet](https://budjet.vercel.app/)
 - [CoverX](https://coverx.vercel.app/)
-- [Slowlydev Simple](https://slowlydev-simple.vercel.app/) (will be deleted soon)
 - [VideoX](https://videox.vercel.app/) (not working anymore, yt didnt like it)
 - [Quick Timer](https://quick-timer.vercel.app/)
 - [Clean Time](https://clean-time.vercel.app/)
