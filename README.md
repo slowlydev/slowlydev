@@ -4,6 +4,7 @@
 
 - [slowlydev-website](https://slowlydev.vercel.app)
 - home-control
+- rust-pong-game
 
 ## 🔨 I've worked on
 (sorted by "quality")
