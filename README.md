@@ -3,8 +3,9 @@
 ## 🔭 I’m currently working on 
 
 - [slowlydev-website](https://slowlydev.vercel.app)
+- rust-shadowy
+- fluxy-frontend
 - home-control
-- rust-pong-game
 
 ## 🔨 I've worked on
 (sorted by "quality")
