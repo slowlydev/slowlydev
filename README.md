@@ -3,9 +3,9 @@
 ## 🔭 I’m currently working on 
 
 - [slowlydev-website](https://slowlydev.vercel.app)
+- [home-control](https://github.com/Slowlydev/home-control) (early release)
 - rust-shadowy
 - fluxy-frontend
-- home-control
 
 ## 🔨 I've worked on
 (sorted by "quality")
