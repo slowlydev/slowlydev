@@ -11,6 +11,7 @@
 (sorted by "quality")
 
 - [Shadowy](https://shadowy.vercel.app/)
+- [Sony Website Redesign](https://sony-website-redesign.vercel.app)
 - [Budjet](https://budjet.vercel.app/)
 - [CoverX](https://coverx.vercel.app/)
 - [VideoX](https://videox.vercel.app/) (not working anymore, yt didnt like it)
