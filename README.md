@@ -5,6 +5,7 @@
 - [slowlydev-website](https://slowlydev.vercel.app)
 - [home-control](https://github.com/Slowlydev/home-control) (early release)
 - rust-shadowy
+- coverx v2
 
 ## 🔨 I've worked on
 (sorted by "quality")
