@@ -1,15 +1,16 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on 
+(sorted by priority, will not touch 2nd item after first is done)
 
-- [slowlydev-website](https://slowlydev.vercel.app)
-- [home-control](https://github.com/Slowlydev/home-control) (early release)
-- rust-shadowy
-- coverx v2
+- [coverx v2](https://coverx-v2.vercel.app) (redesign, rewrite)
+- [home-control](https://github.com/Slowlydev/home-control) (migration to tauri, redesign, refactoring)
+
 
 ## 🔨 I've worked on
 (sorted by "quality")
 
+- [slowlydev-website](https://slowlydev.vercel.app)
 - [Shadowy](https://shadowy.vercel.app/)
 - [Sony Website Redesign](https://sony-website-redesign.vercel.app)
 - [Budjet](https://budjet.vercel.app/)
@@ -31,3 +32,5 @@
 - git-activity-sense
 - up-next
 - fluxy-frontend
+- rust-shadowy
+- slowly-dash
