@@ -3,7 +3,7 @@
 ## 🔭 I’m currently working on 
 (sorted by priority, will not touch 2nd item after first is done)
 
-- f1-dash (realtime f1 dashboard)
+- [f1-dash](https://github.com/Slowlydev/f1-dash) (realtime f1 dashboard)
 - [home-control](https://github.com/Slowlydev/home-control) (ON HOLD: cors issue) (migration to tauri, redesign, refactoring)
 
 ## 🔨 I've worked on
