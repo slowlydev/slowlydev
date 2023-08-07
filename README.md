@@ -24,7 +24,7 @@
 - [Huffman Typescript](https://github.com/Slowlydev/huffman-typescript/)
 - [Backup Script](https://github.com/Slowlydev/backup-script/)
 - [Rust Pong Game](https://github.com/Slowlydev/rust-pong-game/)
-- [Reddit Bot](https://github.com/slowlydev/reddit-bot) (replies with developer excuses)
+- [Reddit Bot](https://github.com/slowlydev/reddit-bot) (replies with developer excuses) (oh noues, reddit CEO didn't liek bots so now this doesn't work anymore)
 
 ## 📂 My projects that are on hold
 
