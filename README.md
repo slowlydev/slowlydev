@@ -11,13 +11,13 @@
 
 - [CoverX](https://coverx.vercel.app/)
 - [slowlydev-website](https://slowlydev.vercel.app)
-- [Sony Website Redesign](https://sony-website-redesign.vercel.app)
-- [Budjet](https://budjet.vercel.app/)
 - [Shadowy](https://shadowy.vercel.app/) (old, but rewrite incomming)
 - [Quick Timer](https://quick-timer.vercel.app/)
 - [Clean Time](https://clean-time.vercel.app/)
-- [VideoX](https://videox.vercel.app/) (not working anymore, yt didnt like it)
-- [Heat Studio](https://heat-studio.vercel.app/) (old and buggy)
+<!-- - [Sony Website Redesign](https://sony-website-redesign.vercel.app) -->
+<!-- - [Budjet](https://budjet.vercel.app/) -->
+<!-- - [VideoX](https://videox.vercel.app/) (not working anymore, yt didnt like it) -->
+<!-- - [Heat Studio](https://heat-studio.vercel.app/) (old and buggy) -->
 
 ## 💡 Small projects I did
 
