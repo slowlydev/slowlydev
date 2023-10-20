@@ -15,3 +15,8 @@
 - [CoverX](https://coverx.vercel.app/)
 - [Portfolio](https://slowlydev.vercel.app)
 - [Shadowy](https://shadowy.vercel.app/)
+
+## 🗃️ The Archives / Other Projects
+
+A collection of projects I made in school or just for fun [meet the archives manager](https://the-archives-manager.vercel.app)  
+The rather bigger projects that I did @school with my coleagues can be found here: [space-code-collective](https://github.com/space-code-collective)
