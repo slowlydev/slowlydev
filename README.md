@@ -3,7 +3,7 @@
 ## 🔭 I’m currently working on 
 
 - [f1-dash](https://github.com/Slowlydev/f1-dash) (realtime f1 dashboard)  
-- argentum (a desktop app written in rust, that identifies similiar photos and makes it easier to clean them up)
+- argentum (a desktop app written in rust)
 
 ## ✋ On Hold
 
