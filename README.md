@@ -2,7 +2,8 @@
 
 ## 🔭 I’m currently working on 
 
-- [f1-dash](https://github.com/Slowlydev/f1-dash) (realtime f1 dashboard)  
+- [f1-dash](https://github.com/Slowlydev/f1-dash) (realtime f1 dashboard)
+- beat-match (a game with songs)  
 - argentum (a desktop app written in rust)
 
 ## ✋ On Hold
