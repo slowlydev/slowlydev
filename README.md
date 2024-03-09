@@ -12,9 +12,9 @@
 
 ## 🔨 Projects that u should take a peak at
 
-- [f1-dash](https://f1-dash.vercel.app)
+- [f1-dash](https://f1-dash.vercel.app/)
 - [CoverX](https://coverx.vercel.app/)
-- [Portfolio](https://slowlydev.vercel.app)
+- [Portfolio](https://slowly.dev/)
 - [Shadowy](https://shadowy.vercel.app/)
 
 ## 🗃️ The Archives / Other Projects
