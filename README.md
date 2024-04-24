@@ -20,4 +20,4 @@
 ## 🗃️ The Archives / Other Projects
 
 A collection of projects I made in school or just for fun [meet the archives manager](https://archive.slowly.dev)  
-The rather bigger projects that I did @school with my coleagues can be found here: [space-code-collective](https://github.com/space-code-collective)
+The rather bigger projects that I did @school with my colleagues can be found here: [space-code-collective](https://github.com/space-code-collective)
