@@ -2,13 +2,14 @@
 
 ## 🔭 I’m currently working on 
 
-- [f1-dash](https://github.com/Slowlydev/f1-dash) (realtime f1 dashboard)
-- beat-match (a game with songs)  
-- argentum (a desktop app written in rust)
+- [f1-dash](https://github.com/slowlydev/f1-dash) (realtime f1 dashboard)
+- squeel (a privacy-focused social media app)
+- beat-match (a game with songs)
 
 ## ✋ On Hold
 
-- [home-control](https://github.com/Slowlydev/home-control) (ON HOLD: cors issue) (migration to tauri, redesign, refactoring)
+- argentum (a desktop app written in rust) 
+- [home-control](https://github.com/slowlydev/home-control) (ON HOLD: cors issue) (migration to tauri, redesign, refactoring)
 
 ## 🔨 Projects that u should take a peak at
 
