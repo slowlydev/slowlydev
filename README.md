@@ -3,11 +3,12 @@
 ## 🔭 I’m currently working on 
 
 - [f1-dash](https://github.com/slowlydev/f1-dash) (realtime f1 dashboard)
-- squeel (a privacy-focused social media app)
 - beat-match (a game with songs)
+- noot (bleeding edge, something something)
 
 ## ✋ On Hold
 
+- squeel (a privacy-focused social media app)
 - argentum (a desktop app written in rust) 
 - [home-control](https://github.com/slowlydev/home-control) (ON HOLD: cors issue) (migration to tauri, redesign, refactoring)
 
