@@ -2,8 +2,9 @@
 
 ## 🔭 I’m currently working on 
 
-- [f1-dash](https://github.com/slowlydev/f1-dash) (realtime f1 dashboard)
+- [nitrous](https://nitrous.software) (a (motorsport) live timing and streaming application)
 - [beat-match](https://beat-match.app) (a game with songs)
+- [f1-dash](https://github.com/slowlydev/f1-dash) (realtime f1 dashboard)
 
 ## 🔨 Projects that u should take a peak at
 
